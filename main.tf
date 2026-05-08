@@ -1,4 +1,4 @@
-# This is # This is like saying "I'm using an Azure router"
+# This is like saying "I'm using an Azure router"
 provider "azurerm" {
   features {}
 }
